@@ -36,5 +36,5 @@
 
 ## Demo
 
-A brief demo of the app in action can be found here: [Link to Demo Video]
+A brief demo of the app in action can be found here: [https://drive.google.com/file/d/1VMKp_NCRoDCPf-XYi8e5stGNBq1jkhTR/view?usp=drive_link]
     
