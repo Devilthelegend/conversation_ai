@@ -1,0 +1,38 @@
+
+# Conversational AI Project
+
+## Setup
+
+1. Download the zip fie
+   ```
+   
+   cd conversational_ai
+   ```
+
+2. Install dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+
+3. Run the FastAPI server:
+   ```
+   uvicorn app.main:app --reload
+   ```
+
+4. Run the Gradio UI:
+   ```
+   python frontend/app.py
+   ```
+
+5. Docker (Optional):
+   - Build the Docker image:
+     ```
+     docker build -t conversational-ai .
+     ```
+   - Run the Docker container:
+     ```
+     docker run -p 8000:8000 conversational-ai
+     ```
+
+## Just Replace with your api keys 
+    
