@@ -36,5 +36,7 @@
 
 ## Demo
 
-A brief demo of the app in action can be found here: [https://drive.google.com/file/d/1VMKp_NCRoDCPf-XYi8e5stGNBq1jkhTR/view?usp=drive_link]
+A brief demo of the app in action can be found here:
+1 vs code: [https://drive.google.com/file/d/1VMKp_NCRoDCPf-XYi8e5stGNBq1jkhTR/view?usp=drive_link]
+2. output: [https://drive.google.com/file/d/1jobAy_SVWj0Xcczfq0H94YYdfZDYd8TF/view?usp=sharing]
     
